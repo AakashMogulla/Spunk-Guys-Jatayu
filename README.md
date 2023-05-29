@@ -1,5 +1,8 @@
 # Health-Care-Chatbot
 
+This project is deployed using pycharm after running all the required modules and libraries.
+In order to interact with the chatbot we run the "gui.py" file.
+
 <img src="https://www.scnsoft.com/blog-pictures/healthcare/how-chatbots-and-ai-are-changing-the-healthcare-industry_1.png">
 
     This chatbot will provide quick answers to FAQs by setting up rule-based keyword chatbots 
